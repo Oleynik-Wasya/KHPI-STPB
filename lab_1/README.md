@@ -11,10 +11,10 @@
 # Результати роботи
 
 Результати роботи реалізації
-![Результати роботи реалізації](/KHPI-STPB/lab_1/doc/my_hash.png)
+![Результати роботи реалізації](/lab_1/doc/my_hash.png)
 
 Порівняння з онлайн-сервісом
-![https://emn178.github.io/online-tools/sha256.html](/KHPI-STPB/lab_1/doc/proof.png)
+![https://emn178.github.io/online-tools/sha256.html](/lab_1/doc/proof.png)
 
 ## Висновок
 Дослідив принципи роботи гешування. Реалізував алгоритм гешування SHA-256.
